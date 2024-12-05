@@ -41,6 +41,15 @@
 #### ERP Tools:
 [<img height="48px" width="80px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png?20230905220744"/>](https://www.kafka.com/)
 
+
+## AWS Certifications:
+[<img height="80px" width="80px" alt="AWS Certified Solutions Architect - Associate Icon" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[<img height="80px" width="80px" alt="AWS Certified Data Engineer - Associate Icon" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Data-Engineer-Associate_badge_300x300.a231ff0ff32a28adf061d3f7fa36564964b4a4b5.png"/>](https://aws.amazon.com/certification/certified-data-analytics-specialty/)  
+
+
+
+
+
 ## Contact me:
 <div>
 <a href = "mailto: syamsundar.yamala@mail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
