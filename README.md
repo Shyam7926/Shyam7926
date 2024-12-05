@@ -44,7 +44,7 @@
 
 ## AWS Certifications:
 [<img height="80px" width="80px" alt="AWS Certified Solutions Architect - Associate Icon" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[<img height="80px" width="80px" alt="AWS Certified Data Engineer - Associate Icon" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Data-Engineer-Associate_badge_300x300.a231ff0ff32a28adf061d3f7fa36564964b4a4b5.png"/>](https://aws.amazon.com/certification/certified-data-analytics-specialty/)  
+[<img height="80px" width="80px" alt="AWS Certified Data Engineer - Associate Icon" src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png"/>](https://aws.amazon.com/certification/certified-data-analytics-specialty/)  
 
 
 
